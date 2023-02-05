@@ -1,0 +1,9 @@
+name:yfc
+num:21312780
+sex:male
+hobby:sports
+
+姓名：俞沣城
+学号：21312780
+性别：男
+爱好：运动

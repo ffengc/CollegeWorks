@@ -1,0 +1,62 @@
+//理论课题1打印结果
+
+//21312780_俞沣城
+
+class Student
+======================================
+Student::_name James
+Student::_sex 0
+Student::_school NBA
+Student::_grade 18
+Student::function call:
+Student::Work()
+Student::Run()
+Student::Study()
+Student::ReportGrades()
+======================================
+
+
+class Student
+======================================
+Student::_name Curry
+Student::_sex 0
+Student::_school NBA
+Student::_grade 14
+Student::function call:
+Student::Work()
+Student::Run()
+Student::Study()
+Student::ReportGrades()
+======================================
+
+
+class CollegeStudent
+======================================
+CollegeStudent::_name Jack
+CollegeStudent::_sex 0
+CollegeStudent::_school SYSU
+CollegeStudent::_grade 1
+CollegeStudent::_major Math
+CollegeStudent::_student_organizations baseball
+CollegeStudent::function call:
+CollegeStudent::Work()
+CollegeStudent::Run()
+CollegeStudent::Study()
+CollegeStudent::ReportGrades()
+======================================
+
+
+class CollegeStudent
+======================================
+CollegeStudent::_name Sam
+CollegeStudent::_sex 1
+CollegeStudent::_school SYSU
+CollegeStudent::_grade 2
+CollegeStudent::_major Chinese
+CollegeStudent::_student_organizations basketball
+CollegeStudent::function call:
+CollegeStudent::Work()
+CollegeStudent::Run()
+CollegeStudent::Study()
+CollegeStudent::ReportGrades()
+======================================

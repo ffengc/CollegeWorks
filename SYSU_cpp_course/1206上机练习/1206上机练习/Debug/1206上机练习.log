@@ -1,0 +1,36 @@
+﻿  test.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\numeric(34,26): warning C4244: “=”: 从“T”转换到“_Ty”，可能丢失数据
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              _Ty=int
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\numeric(41,89): message : 查看对正在编译的函数 模板 实例化“_Ty std::accumulate<_InIt,_Ty,std::plus<void>>(const _InIt,const _InIt,_Ty,_Fn)”的引用
+          with
+          [
+              _Ty=int,
+              _InIt=double *,
+              _Fn=std::plus<void>
+          ]
+E:\SYSU\2022第一学期\C++程序设计\1206上机练习\1206上机练习\Static_Array.h(86,1): message : 查看对正在编译的函数 模板 实例化“_Ty std::accumulate<T*,int>(const _InIt,const _InIt,_Ty)”的引用
+          with
+          [
+              _Ty=int,
+              T=double,
+              _InIt=double *
+          ]
+E:\SYSU\2022第一学期\C++程序设计\1206上机练习\1206上机练习\Static_Array.h(85,1): message : 在编译 类 模板 成员函数“T StaticArray<T,10>::sum(void)”时
+          with
+          [
+              T=double
+          ]
+E:\SYSU\2022第一学期\C++程序设计\1206上机练习\1206上机练习\test.cpp(24,20): message : 查看对正在编译的函数 模板 实例化“T StaticArray<T,10>::sum(void)”的引用
+          with
+          [
+              T=double
+          ]
+E:\SYSU\2022第一学期\C++程序设计\1206上机练习\1206上机练习\test.cpp(19,31): message : 查看对正在编译的 类 模板 实例化“StaticArray<double,10>”的引用
+  1206上机练习.vcxproj -> E:\SYSU\2022第一学期\C++程序设计\1206上机练习\Debug\1206上机练习.exe

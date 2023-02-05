@@ -1,0 +1,9 @@
+﻿  test.cpp
+D:\SYSU\2022第一学期\C++程序设计\0913作业\0913作业\0913作业\Point.h(36,18): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\SYSU\2022第一学期\C++程序设计\0913作业\0913作业\0913作业\Rectangle.h(27,12): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\SYSU\2022第一学期\C++程序设计\0913作业\0913作业\0913作业\Rectangle.h(28,12): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\SYSU\2022第一学期\C++程序设计\0913作业\0913作业\0913作业\Rectangle.h(29,22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\SYSU\2022第一学期\C++程序设计\0913作业\0913作业\0913作业\Rectangle.h(30,22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\SYSU\2022第一学期\C++程序设计\0913作业\0913作业\0913作业\Rectangle.h(31,22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\SYSU\2022第一学期\C++程序设计\0913作业\0913作业\0913作业\Rectangle.h(32,22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  0913作业.vcxproj -> D:\SYSU\2022第一学期\C++程序设计\0913作业\0913作业\Debug\0913作业.exe

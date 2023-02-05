@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "18378b48-8e5f-4b2b-9efc-c67dec908ee3": {
+      "ProjectGuid": "18378b48-8e5f-4b2b-9efc-c67dec908ee3",
+      "DisplayName": "理论课题1",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

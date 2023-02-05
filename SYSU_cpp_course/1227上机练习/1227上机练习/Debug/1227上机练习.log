@@ -1,0 +1,3 @@
+﻿  test.cpp
+E:\SYSU\2022第一学期\C++程序设计\1227上机练习\1227上机练习\test.cpp(210,66): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+  1227上机练习.vcxproj -> E:\SYSU\2022第一学期\C++程序设计\1227上机练习\Debug\1227上机练习.exe

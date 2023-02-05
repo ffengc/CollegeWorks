@@ -1,0 +1,8 @@
+编号,花萼长度(cm),花萼宽度(cm),花瓣长度(cm),花瓣宽度(cm),名称
+1,4.9,3.1,1.5,0.1,Iris setosa
+2,5.4,3.7,1.5,0.2,Iris setosa
+3,5.2,2.7,3.9,1.4,Iris versicolor
+4,5.0,2.0,3.5,1.0,Iris versicolor
+5,6.3,2.7,4.9,1.8,Iris virginica
+6,6.7,3.3,5.7,2.1,Iris virginica
+7,5.5,2.5,4.0,1.3,?

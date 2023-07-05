@@ -94,7 +94,7 @@ opts = setvaropts(opts, "VarName2", "EmptyFieldRule", "auto");
 opts = setvaropts(opts, ["VarName1", "VarName3"], "ThousandsSeparator", ",");
 
 % 导入数据
-Data = readtable("/Users/demac/我的文件/SYSU/4. 2022第二学期/图像处理实验/实验一/图像实验一/number_recognize/Data.csv", opts)
+Data = readtable("Data.csv", opts)
 
 % 数据预处理
 clear opts
